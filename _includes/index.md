@@ -1,8 +1,10 @@
 [<img style="display:inline;" width="32px;" src="/images/linkedin.png">](http://in.linkedin.com/in/mjiyer)
 [<img style="display:inline;" width="32px;" src="/images/twitter.png">](http://twitter.com/bangalorebug)
-[<img style="display:inline;" width="32px;" src="/images/github.png">](http://github.com/develmj)
+[<img style="display:inline;" width="32px;"
+src="/images/github.png">](http://github.com/develmj)
+[develmj@gmail.com](mailto:develmj@gmail.com) 
 
-[develmj@gmail.com](mailto:develmj@gmail.com)
+Download: [Curriculum Vitae](/MrityunjayRaviIyer-CV.pdf)
 
 ### Management Experience
 - **Styletag.com** - Sr. Project Manager (July'12 - Present)
