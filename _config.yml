@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: rdiscount
 pygments: true
 
 title_tag_text: Mrityunjay, My Profile
