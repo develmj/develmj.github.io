@@ -9,18 +9,29 @@
   
 ### Technical Experience
 * **Styletag.com**:
-  * Automated Cohort data reports,
-  * Customer support automation,
-  * Local cloud stack,
-  * Sales Dashboards,
-  * SMS based order confirmation,
-  * Search and Filters for the primary e-commerce site,
-  * Merchandising product upload console,
-  * Transfer cart from screen to mobile device.
+  * Automated Cohort data reports
+  * Customer support automation
+  * Local cloud stack
+  * Sales Dashboards
+  * SMS based order confirmation
+  * Search and Filters for the primary e-commerce site
+  * Merchandising product upload console
+  * Transfer cart from screen to mobile device
 
 * **Atlantis Computing**:
-  * Atlantis Ilio Installer 
-  * 
+  * Atlantis Ilio
+    * Commandline installer
+    * Monitoring module for server failure, failover and failback
+    * Configurator for Ilio configuration and deployment ISO generation
+  * Atlantis Unity
+    * Active Directory and LDAP integration
+    * Netboot V1.0, a PXE-boot Knoppix based JeOS with the Qemu built-in
+    * Netboot V2.0, a PXE-boot Debian based JeOS with VMWare Player built-in
+  * Atlantis WebTop
+    * User Sign-up and management system
+    * Yahoo Chat integration
+    * User monitoring, reports and geographic access details
+    * Atlantis Google Gadget, full-featured Webtop access within a Google Gadget
 
 <img src="https://avatars1.githubusercontent.com/u/412554?s=460"
 alt="Mrityunjay Ravi Iyer" style="width: 250px;"/>
