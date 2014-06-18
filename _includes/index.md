@@ -1,8 +1,8 @@
+[<img style="display:inline;" width="32px;" src="/images/linkedin.png">](http://in.linkedin.com/in/mjiyer)
+[<img style="display:inline;" width="32px;" src="/images/twitter.png">](http://twitter.com/bangalorebug)
+[<img style="display:inline;" width="32px;" src="/images/github.png">](http://github.com/develmj)
 
-
-[develmj@gmail.com](mailto:develmj@gmail.com)|[<img
-style="display:inline;"src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png">](http://in.linkedin.com/in/mjiyer)
-|
+[develmj@gmail.com](mailto:develmj@gmail.com)
 
 ### Management Experience
 - **Styletag.com** - Sr. Project Manager (July'12 - Present)
@@ -35,7 +35,7 @@ style="display:inline;"src="https://static.licdn.com/scds/common/u/img/webpromo/
     - Atlantis Google Gadget, full-featured Webtop access within a
     Google Gadget
 
-### Skills:
+### Skills
 - Programming: Ruby, Python (familiar)
 - Framework: Ruby on Rails
 - Specialities: E-Commerce, Amazon AWS, Cloud Computing, Virtualization, CDN
@@ -44,7 +44,10 @@ style="display:inline;"src="https://static.licdn.com/scds/common/u/img/webpromo/
 - Good at rapid prototyping
 - Experienced in customer engagement
 
-### 
+### Author
 
-<img src="/images/avatar1.JPG"
-alt="Mrityunjay Ravi Iyer" style="width: 250px;"/>
+Mrityunjay (MJ) Ravi Iyer, Bangalore, India
+
+<img src="/images/avatar1.JPG" alt="Mrityunjay Ravi Iyer" style="width:150px;display:inline;"/>
+
+
