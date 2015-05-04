@@ -7,12 +7,14 @@ src="/images/github.png">](http://github.com/develmj)
 Download: [Curriculum Vitae](/MrityunjayRaviIyer-CV.pdf)
 
 ### Management Experience
-- **Styletag.com** - Sr. Project Manager (July'12 - Present)
-- **Sci Square TechnoSolution** - Project Manager (Aug'11 - May'12)
+- **STYLETAG.com** - General Manager - Technology (April'15 - Present)
+- **STYLETAG.com** - Sr. Project Manager (April'13 - Mar'15)
+- **STYLETAG.com** - Project Manager (July'12 - Mar'13)
+- **Scisquare TechnoSolutions** - Project Manager (Aug'11 - May'12)
 - **Atlantis Computing** - Engineering Manager (Oct'08 - July'11)
   
 ### Technical Experience
-- **Styletag.com**
+- **STYLETAG.com**
   - Automated Cohort data reports  
   - Customer support automation  
   - Local cloud stack  
