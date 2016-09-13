@@ -4,4 +4,4 @@
 [<img style="display:inline;" width="32px;" src="/images/twitter.png">](http://twitter.com/bangalorebug)
 [<img style="display:inline;" width="32px;" src="/images/github.png">](http://github.com/develmj)
 
-[develmj@gmail.com](mailto:develmj@gmail.com)
+[develmj@gmail.com](mailto:mj.iyer@gmail.com)
